@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="51px" viewBox="0 0 51 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>folder</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4.create_new_folder" transform="translate(-494.000000, -461.000000)">
+            <g id="folder" transform="translate(495.000000, 462.000000)">
+                <circle id="Oval" stroke="#3C84FC" fill="#3C84FC" cx="24.5" cy="24.5" r="24.5"></circle>
+                <g id="Group-14" transform="translate(9.456140, 12.035088)">
+                    <path d="M26.7923786,2.40703447 L14.2572471,2.40703447 L11.9999496,0.176295093 C11.8857774,0.0634662333 11.7311883,1.90070182e-13 11.5694635,1.90070182e-13 L2.43569154,1.90070182e-13 C1.09234204,1.90070182e-13 1.53477231e-12,1.07949011 1.53477231e-12,2.40703447 L1.53477231e-12,21.663141 C1.53477231e-12,22.9906289 1.09234204,24.0701754 2.43569154,24.0701754 L26.7923786,24.0701754 C28.1357281,24.0701754 29.2280702,22.9906289 29.2280702,21.663141 L29.2280702,4.81401252 C29.2280702,3.48652458 28.1357281,2.40703447 26.7923786,2.40703447" id="Fill-1" fill="#FFFFFF"></path>
+                    <g id="Group-24" transform="translate(4.427193, 18.998246)" stroke="#3C84FC" stroke-linecap="square" stroke-width="0.5">
+                        <path d="M0.380172414,2.04166667 L21.8330739,2.04166667" id="Line-2"></path>
+                        <path d="M0.380172414,0.408333333 L21.8330739,0.408333333" id="Line-2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

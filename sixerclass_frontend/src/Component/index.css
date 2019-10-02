@@ -1,0 +1,56 @@
+.mainContainer {
+    display: flex;
+    height: 100%;
+    flex-direction: row;
+    width: 100%
+}
+.folderContainer {
+    display: flex;
+    flex-direction: column;
+    width: 10rem;
+}
+.folder {
+    width: 130px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: #c2c2c2 0px 3px 6px;
+    margin-bottom: 2rem;
+    cursor: pointer;
+}
+.folderName {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 100px;
+    text-align: center;
+}
+.imageContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: calc(100% - 30rem);
+    flex-wrap: wrap;
+    align-content: start;
+}
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100px;
+    width: 130px;
+    margin-bottom: 2rem;
+}
+.fileDetails {
+    display: flex;
+    width: 20rem;
+    flex-direction: column;
+    height: 10rem;
+    justify-content: center;
+    align-items: right;
+    box-shadow: #c2c2c2 0px 3px 6px;
+    padding: 0.4rem;
+}
