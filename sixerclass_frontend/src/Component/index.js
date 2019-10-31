@@ -29,7 +29,7 @@ class Index extends React.Component {
     componentDidMount() {
         this.props.dispatch(getAllFoldersAction)
         console.log("location", this.props.location.pathname)
-        if (this.props.location && this.props.location.pathname && this.props.location.pathname.length !== 0 && this.props.location.pathname !== "/") {
+        if (this.props.location && this.props.location.pathname && this.props.location.pathname !== "/") {
             this.props.dispatch(getParticularFoldersAction(this.props.location.pathname))
             this.setState({
                 folderName: this.props.location.pathname.slice(1)
